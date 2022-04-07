@@ -5,7 +5,7 @@ draft: false
 ---
 
 # Short Biography
-**Kim Tien Nguyen** received his B.S. degree (2012) in mechanical engineering from the *Ho Chi Minh University of Technology and Education, Vietnam*, M.S. degree (2015) and Ph.D. degree (2019) in *mechanical engineering from Chonnam National University, South Korea*. He is now a senior researcher in *Medical Microrobot center, Korea*. His research interests including Micro-actuator/ Microrobot, Micro manipulation of bio-medical devices/applications.
+**Kim Tien Nguyen** received his B.S. degree (2012) in mechanical engineering from the *Ho Chi Minh University of Technology and Education, Vietnam*, M.S. degree (2015) and Ph.D. degree (2019) in *mechanical engineering from Chonnam National University, South Korea*. He is now a senior researcher in *Korea Institute of Medical Microrobotics (KIMIRo)*. His research interests including Micro-actuator/ Microrobot, Micro manipulation of bio-medical devices/applications.
 ## Education Backgrounds
   * *Mar.,2016 - Feb.,2020*: **Ph.D. candidate**  
     Dissertation Title:"*High Performance Electromagnetic Navigation system for Multi-functional Medical Microrobot applications*".  
@@ -21,8 +21,10 @@ draft: false
      GPA: 7.97/10.0
 
 ## Work Experiences
-  * *Mar.,2020 - now*:       **Senior Researcher**  
-    Korean Institute of Medical Microrobotics (KIMIRo), South Korea
+  * *July 2021 - now*:       **Senior Researcher**  
+    Korea Institute of Medical Microrobotics (KIMIRo), South Korea
+  * *May 2020 – June 2021*: Postdoctoral researcher
+  Medical Microrobot Center (MRC), Chonnam National University, Korea
   * *Mar.,2016 - Feb.,2020*: **Fulltime Researcher**  
         Medical Microrobot Center (MRC)  
         Robot Research Initiatives (RRI), Chonnam National University, Gwangju, South Korea
@@ -34,6 +36,9 @@ draft: false
         Quality assurance engineer  
         Sonion Vietnam Limited, Sai Gon Hi-Tech Park, Hochiminh City,Vietnam
 ## Honours and Awards
+▪	Commendation for **Excellent contribution** to Korean Institute of Medical Microrobotics, 2021.
+▪	Scholarship for **Excellent paper publication**, Brain Korean, BK21 plus, 2019.
+▪	Commendation for **Excellent contribution** to Medical Microrobot Center (MRC), Chonnam National University, Korea, 2017.
 ▪	Awarded for **Excellent achievement in scientific research** in Ho Chi Minh City University of Technical Education, 2011.  
 ▪	Awarded for **2nd prize** at *Holcim Prize 2012*, semi-final round, Ho Chi Minh City University of Technical Education.  
 ▪	**Best paper award** in the *3rd Symposium on Mechanical Engineering for Young Scientist* (SMEYS 2012), Hochiminh City University of Technology, 2012.  

@@ -3,6 +3,7 @@ title: "Publications"
 date: 2020-07-30T12:36:18+09:00
 draft: false
 ---
+
 **Guide-wired Helical Microrobot for Percutaneous Revascularization in Chronic Total Occlusion in-vivo Validation**  
 **Kim Tien Nguyen**, Seok-Jae Kim, Hyun-Ki Min, Manh Cuong Hoang, Gwangjun Go, Byungjeon Kang, Jayoung Kim, Eunpyo Choi, Ayoung Hong, Jongoh Park, Chang-Sei Kim  
 *IEEE Transactions on Biomedical Engineering*, 2020/12/22,
