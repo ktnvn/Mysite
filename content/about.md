@@ -36,9 +36,9 @@ draft: false
         Quality assurance engineer  
         Sonion Vietnam Limited, Sai Gon Hi-Tech Park, Hochiminh City,Vietnam
 ## Honours and Awards
-▪	Commendation for **Excellent contribution** to Korean Institute of Medical Microrobotics, 2021.
-▪	Scholarship for **Excellent paper publication**, Brain Korean, BK21 plus, 2019.
-▪	Commendation for **Excellent contribution** to Medical Microrobot Center (MRC), Chonnam National University, Korea, 2017.
+▪	Commendation for **Excellent contribution** to Korean Institute of Medical Microrobotics, 2021.  
+▪	Scholarship for **Excellent paper publication**, Brain Korean, BK21 plus, 2019.  
+▪	Commendation for **Excellent contribution** to Medical Microrobot Center (MRC), Chonnam National University, Korea, 2017.  
 ▪	Awarded for **Excellent achievement in scientific research** in Ho Chi Minh City University of Technical Education, 2011.  
 ▪	Awarded for **2nd prize** at *Holcim Prize 2012*, semi-final round, Ho Chi Minh City University of Technical Education.  
 ▪	**Best paper award** in the *3rd Symposium on Mechanical Engineering for Young Scientist* (SMEYS 2012), Hochiminh City University of Technology, 2012.  
